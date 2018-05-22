@@ -112,6 +112,10 @@ public class Server implements Runnable {
         }
     }
     
+    /**
+     * Gets the number of clients connected to the server.
+     * @return the number of clients connected to the server
+     */
     public int getNumClients() {
     	return this.numClients;
     }
