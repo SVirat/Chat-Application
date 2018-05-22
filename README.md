@@ -11,15 +11,15 @@ Here's how to run the chat application.
 ### Server
 To run the server, run the following command on the terminal:
 ```
-java Server <port_number>
+$ java Server <port_number>
 ```
 ### Client
 To run a client, run the following command on the terminal:
 ```
-java Client <host> <port_number>
+$ java Client <host> <port_number>
 ```
 ### Testing
 To test the connection, run the following command on the terminal:
 ```
-java ChatApplication <num_clients>
+$ java ChatApplication <num_clients>
 ```
